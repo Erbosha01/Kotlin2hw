@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin2hw</string>
+    <string name="photo">photo</string>
+    <string name="write_your_url_of_image">write your url of image</string>
+    <string name="random">random</string>
+    <string name="submit">submit</string>
+</resources>
